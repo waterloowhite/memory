@@ -1,1 +1,2 @@
-test
+Username: waterloo
+Password: mywiki((protected))
