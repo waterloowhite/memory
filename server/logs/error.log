@@ -1,0 +1,50 @@
+[Wed Jul 20 14:27:37.777097 2022] [mpm_winnt:notice] [pid 27800:tid 736] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Jul 20 14:27:37.777097 2022] [mpm_winnt:notice] [pid 27800:tid 736] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Jul 20 14:27:37.777097 2022] [core:notice] [pid 27800:tid 736] AH00094: Command line: 'mapache.exe -d C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/server'
+[Wed Jul 20 14:27:37.787070 2022] [mpm_winnt:notice] [pid 27800:tid 736] AH00418: Parent: Created child process 12932
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12932:tid 696] AH00354: Child: Starting 24 worker threads.
+[Wed Jul 20 14:27:38.959051 2022] [authz_core:error] [pid 12932:tid 880] [client 127.0.0.1:60990] AH01630: client denied by server configuration: C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Wed Jul 20 14:30:41.664725 2022] [authz_core:error] [pid 12932:tid 892] [client ::1:60997] AH01630: client denied by server configuration: C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Wed Jul 20 14:38:32.153526 2022] [mpm_winnt:notice] [pid 27800:tid 736] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 20 14:38:34.162636 2022] [mpm_winnt:notice] [pid 12932:tid 696] AH00364: Child: All worker threads have exited.
+[Wed Jul 20 14:38:34.552862 2022] [mpm_winnt:notice] [pid 27800:tid 736] AH00430: Parent: Child process 12932 exited successfully.
+[Wed Jul 20 14:38:39.695658 2022] [mpm_winnt:notice] [pid 28140:tid 696] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Jul 20 14:38:39.695658 2022] [mpm_winnt:notice] [pid 28140:tid 696] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Jul 20 14:38:39.695658 2022] [core:notice] [pid 28140:tid 696] AH00094: Command line: 'mapache.exe -d C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/server'
+[Wed Jul 20 14:38:39.705700 2022] [mpm_winnt:notice] [pid 28140:tid 696] AH00418: Parent: Created child process 14708
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14708:tid 844] AH00354: Child: Starting 24 worker threads.
+[Wed Jul 20 14:38:54.688527 2022] [mpm_winnt:notice] [pid 28140:tid 696] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 20 14:38:57.471574 2022] [mpm_winnt:notice] [pid 14708:tid 844] AH00364: Child: All worker threads have exited.
+[Wed Jul 20 14:38:57.822699 2022] [mpm_winnt:notice] [pid 28140:tid 696] AH00430: Parent: Child process 14708 exited successfully.
+[Wed Jul 20 14:39:41.231285 2022] [mpm_winnt:notice] [pid 16108:tid 744] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Jul 20 14:39:41.232282 2022] [mpm_winnt:notice] [pid 16108:tid 744] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Jul 20 14:39:41.232282 2022] [core:notice] [pid 16108:tid 744] AH00094: Command line: 'mapache.exe -d C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/server'
+[Wed Jul 20 14:39:41.242254 2022] [mpm_winnt:notice] [pid 16108:tid 744] AH00418: Parent: Created child process 14760
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14760:tid 4] AH00354: Child: Starting 24 worker threads.
+[Wed Jul 20 14:43:19.186095 2022] [mpm_winnt:notice] [pid 16108:tid 744] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 20 14:43:21.201666 2022] [mpm_winnt:notice] [pid 14760:tid 4] AH00364: Child: All worker threads have exited.
+[Wed Jul 20 14:43:21.223725 2022] [mpm_winnt:notice] [pid 16108:tid 744] AH00430: Parent: Child process 14760 exited successfully.
+Wed Jul 20 14:44:50 2022 (9116): Fatal Error Opcode handlers are unusable due to ASLR. Please setup opcache.file_cache and opcache.file_cache_fallback directives for more convenient Opcache usage
+[Wed Jul 20 14:48:35.347894 2022] [core:warn] [pid 19016:tid 464] AH00098: pid file C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 20 14:48:35.623855 2022] [mpm_winnt:notice] [pid 19016:tid 464] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Jul 20 14:48:35.623855 2022] [mpm_winnt:notice] [pid 19016:tid 464] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Jul 20 14:48:35.623855 2022] [core:notice] [pid 19016:tid 464] AH00094: Command line: 'mapache.exe -d C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/server'
+[Wed Jul 20 14:48:35.632800 2022] [mpm_winnt:notice] [pid 19016:tid 464] AH00418: Parent: Created child process 18948
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18948:tid 496] AH00354: Child: Starting 24 worker threads.
+[Wed Jul 20 14:52:39.214616 2022] [authz_core:error] [pid 18948:tid 916] [client ::1:49905] AH01630: client denied by server configuration: C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8866/doku.php?id=start&do=admin
+[Wed Jul 20 14:59:52.412186 2022] [mpm_winnt:notice] [pid 19016:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 20 14:59:54.432820 2022] [mpm_winnt:notice] [pid 18948:tid 496] AH00364: Child: All worker threads have exited.
+[Wed Jul 20 14:59:56.028205 2022] [mpm_winnt:notice] [pid 19016:tid 464] AH00430: Parent: Child process 18948 exited successfully.
+[Wed Jul 20 14:59:58.337253 2022] [mpm_winnt:notice] [pid 6484:tid 708] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Jul 20 14:59:58.337253 2022] [mpm_winnt:notice] [pid 6484:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Jul 20 14:59:58.337253 2022] [core:notice] [pid 6484:tid 708] AH00094: Command line: 'mapache.exe -d C:/Users/water/My Office/Arsenal/DokuWiki/DokuWikiStick/server'
+[Wed Jul 20 14:59:58.347226 2022] [mpm_winnt:notice] [pid 6484:tid 708] AH00418: Parent: Created child process 7352
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7352:tid 520] AH00354: Child: Starting 24 worker threads.
+[Wed Jul 20 15:02:39.388466 2022] [mpm_winnt:notice] [pid 6484:tid 708] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 20 15:02:41.402149 2022] [mpm_winnt:notice] [pid 7352:tid 520] AH00364: Child: All worker threads have exited.
+[Wed Jul 20 15:02:42.318625 2022] [mpm_winnt:notice] [pid 6484:tid 708] AH00430: Parent: Child process 7352 exited successfully.
